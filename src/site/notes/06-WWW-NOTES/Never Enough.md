@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/06-www-notes/never-enough/","noteIcon":"","created":"2024-11-28T13:12:50.744-05:00"}
 ---
 
-![150](https://images-us.bookshop.org/ingram/9780593191866.jpg)
+![Image of Never Enough's book cover | 300](https://images-us.bookshop.org/ingram/9780593191866.jpg)
 
 Notes from the book *[Never Enough: When Achievement Culture Becomes Toxic-And What We Can Do about It](https://bookshop.org/p/books/never-enough-how-toxic-achievement-culture-hurts-kids-and-what-we-can-do-about-it-jennifer-breheny-wallace/19248068)* by Jennifer Breheny Wallace
 
