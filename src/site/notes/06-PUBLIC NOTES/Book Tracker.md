@@ -39,6 +39,8 @@
 | [[03-BOOKSHELF/How to Read a Novelist\|How to Read a Novelist]]       | John Freeman                    | ![\|100](http://books.google.com/books/content?id=H9MPqtf31AcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Prose    |
 | [[03-BOOKSHELF/Concealing Caste\|Concealing Caste]]                   | Kusuma Satyanarayanan, Joel Lee | ![\|100](http://books.google.com/books/content?id=aRSsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Prose    |
 | [[03-BOOKSHELF/Big Fiction\|Big Fiction]]                             | Dan Sinykin                     | ![\|100](https://cup-us.imgix.net/covers/9780231192958.jpg?auto=format&w=350)                                             | Prose    |
+| [[03-BOOKSHELF/What Are Children For\|What Are Children For]]         | Anastasia Berg, Rachel Wiseman  | ![\|100](http://books.google.com/books/content?id=33TTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Prose    |
+| [[03-BOOKSHELF/They Called Me a Lioness\|They Called Me a Lioness]]   | Ahed Tamimi, Dena Takruri       | ![\|100](http://books.google.com/books/content?id=yeS-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Prose    |
 
 { .block-language-dataview}
 
