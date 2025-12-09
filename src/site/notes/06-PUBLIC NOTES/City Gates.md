@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-public-notes/city-gates/","noteIcon":"","created":"2024-11-27T23:56:42.029-05:00"}
+{"dg-publish":true,"dg-permalink":"reading/city-gates","permalink":"/reading/city-gates/","created":"2024-11-27T23:56:42.000-05:00"}
 ---
 
 
