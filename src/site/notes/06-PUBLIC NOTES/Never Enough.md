@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-public-notes/never-enough/","noteIcon":"","created":"2024-11-28T13:12:50.744-05:00"}
+{"dg-publish":true,"dg-permalink":"reading/never-enough","permalink":"/reading/never-enough/","created":"2024-11-28T13:12:50.000-05:00"}
 ---
 
 ![Image of Never Enough's book cover | 300](https://images-us.bookshop.org/ingram/9780593191866.jpg)
