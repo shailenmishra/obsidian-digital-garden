@@ -5,4 +5,4 @@
 
 # Welcome to Critical Furnace
 
-A highly active reactor can combust brain that's watching the reactor.
+A highly active reactor can combust brain that's watching the [[06-PUBLIC NOTES/City Gates\|City Gates]].

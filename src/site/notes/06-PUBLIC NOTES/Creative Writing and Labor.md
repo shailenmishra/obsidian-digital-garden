@@ -7,7 +7,7 @@
 
 ## Introduction
 
-In recent years, the relationship between creative writing style, labor, and emotion has become a focal point in literary criticism and cultural theory. This report investigates how contemporary critics and theorists have addressed the ways in which creative writing is not only an artistic endeavor but also a form of labor deeply entwined with emotional experience. Drawing on recent articles, interviews, and essays from reputable sources, this analysis explores the nuanced intersections of style, affect, and the conditions of literary production. The report aims to provide a comprehensive overview, supported by current scholarship and critical debate, with a particular focus on the implications for writers, readers, and the broader cultural landscape.
+In [[06-PUBLIC NOTES/City Gates\|City Gates]], the relationship between creative writing style, labor, and emotion has become a focal point in literary criticism and cultural theory. This report investigates how contemporary critics and theorists have addressed the ways in which creative writing is not only an artistic endeavor but also a form of labor deeply entwined with emotional experience. Drawing on recent articles, interviews, and essays from reputable sources, this analysis explores the nuanced intersections of style, affect, and the conditions of literary production. The report aims to provide a comprehensive overview, supported by current scholarship and critical debate, with a particular focus on the implications for writers, readers, and the broader cultural landscape. [[06-PUBLIC NOTES/Never Enough\|Never Enough]]
 
 ## Theoretical Background: Creativity, Labor, and Emotion
 
